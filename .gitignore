@@ -1,0 +1,4 @@
+.venv
+productos
+*.json
+*.csv
